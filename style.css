@@ -1,0 +1,43 @@
+.art{
+  position: relative;
+  text-align: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover
+  }
+    
+
+.containeri {
+  position: relative;
+  top: 60px;
+  left: 16px;
+    
+  }
+
+  .low {
+    position: absolute;
+    bottom: -140%;
+    left: 5%;
+  }
+  .top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+  }
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }  
+  .bold{
+    font-weight: 600 
+      ;
+  }
+  .borderbox{box-sizing: border-box;
+    width: 17rem;
+    height: 3rem;
+    margin: 0rem;
+    }
+
+  

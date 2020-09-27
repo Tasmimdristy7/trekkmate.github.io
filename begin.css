@@ -1,0 +1,100 @@
+.imgbackground{
+    position:absolute;
+    text-align: center;
+    background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover; 
+            height: 100vh;
+            width:100vw;
+            
+      }
+      .navb{
+        padding: 2px 100px;
+      }
+      .textcenter9{
+        position: absolute;
+        top: 4em;
+        left: 36%;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 500;
+        height: 10em;
+        text-align: center;
+        color:  #5C4230;
+      }
+      .sCenter{
+        position: absolute;
+        top: 8em;
+        left: 38%;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 500;
+        height: 10em;
+        text-align: center;
+          
+      }
+      .card00{
+        position: absolute;
+        top: 8em;
+        left: 33%;
+        padding: 5px 20px  ;
+        
+    
+    }
+    .btnS{ position: absolute;
+        top: 0.1em;
+        left: 90%;
+        padding: 5px 20px}
+        
+        .main {
+         
+          width: 28em;
+          margin: 10em auto 5em;
+
+      }
+      .has-search .form-control-feedback {
+        position: absolute;
+       
+        display: block;
+        width: 10em;
+        height: 10em;
+        line-height: 10em;
+        text-align: center;
+        pointer-events: none;
+        color:white;
+        opacity: 10%;
+        
+    }      
+    .bar{
+      border-top-left-radius: 40px;
+      border-bottom-left-radius: 40px;
+      ;
+      
+    }
+    .carousel-item{
+      margin: 15em ;
+      
+  }
+  .carousel-inner img {
+    width: 100%;
+    height: 400px!important;
+  }
+  .textcenter10{
+    position: absolute;
+    top: 1em;
+    left: 36%;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+    height: 10em;
+    text-align: center;
+    color: grey;
+  }
+  .navS{
+    color: #5C4230; margin-left: 8em;margin-top: -3.7em;
+  }.fontE{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+
+  }
+  .active {
+
+    color: white;
+  }

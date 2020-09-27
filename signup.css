@@ -1,0 +1,48 @@
+
+.imagebackground{
+position:absolute;
+text-align: center;
+background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover; 
+        height: 100vh;
+        width:100vw;
+        
+  }
+  .iconj {
+      
+    
+    margin-top: -.2em;
+    margin-left: .4em;
+    height: 1.5em;
+    width: 1.5em;   
+  }
+  .textcenter3{
+    position: absolute;
+    top: 2em;
+    left: 38%;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    height: 10em;
+    text-align: center;
+  }
+  .card4{
+    position: absolute;
+    top: 8em;
+    left: 30%;
+    padding: 5px 10px  ;
+    
+
+}
+.card5{
+  position: absolute;
+  top: 20em;
+  left: 38%;
+  padding: 5px 10px  ;
+}
+.card6{
+  position: absolute;
+  top: 20em;
+  left: 38%;
+  padding: 5px 10px  ;
+}

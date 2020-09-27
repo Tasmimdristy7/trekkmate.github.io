@@ -1,0 +1,149 @@
+
+    
+body{
+      background-image: url(photos/Sign_in_background.jpg);
+        text-align: center;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover; 
+        height: 100vh;
+        width:100vw;
+        
+    }
+    
+  .textcenter{
+      position: absolute;
+     top: 20%;
+     left: 38%;
+     font-family: 'Poppins', sans-serif;
+     font-weight: 500;
+     height: 10em;
+     text-align: center;
+     
+     
+      color:#5a412f;
+  }
+  .remember{ position: absolute;
+    top: 25em;
+    margin-left: -12.5em;
+    color:#D5AA93;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12pt;
+
+ 
+
+  }
+  .card1{
+      position: absolute;
+      top: 16em;
+      left: 38%;
+      padding: 5px 10px  ;
+      
+
+  }
+  .card2{
+    position: absolute;
+    top: 20em;
+    left: 38%;
+    padding: 5px 10px  ;
+    
+
+}
+  .form{
+    position: absolute;
+    top: 30%;
+    left: 45%;
+    
+
+}
+
+    
+  
+    
+    
+    .input-group-prepend span{
+
+    
+    width: 5em;
+    background-color: #fff;
+    color: black;
+    /* border:0 ; */
+    }
+ 
+    
+    .rememberinput
+    {
+    width: 20px;
+    height: 20px;
+    margin-top: 24em;
+    margin-left: -14.5em;
+    margin-right: 5em;
+    }
+    
+    .login_btn{
+    color: black;
+    background-color: #FFC312;
+    width: 100px;
+    }
+    
+    .login_btn:hover{
+    color: black;
+    background-color: white;
+    }
+    
+    .links{
+    color: white;
+    }
+    
+    .links a{
+    margin-left: 4px;
+    }
+  
+    .card{
+height: 380px;
+margin-top: auto;
+margin-bottom: auto;
+width: 400px;
+background-color:rgba(0,0,0,0)
+    }
+    .iconS{
+        background-color: white;
+       height: 2em;
+        width: 2.5em;
+    }
+    .fontuser { 
+        position: relative; 
+    } 
+    .fontuser i{ 
+        position: absolute; 
+        left: 15px; 
+        top: 10px; 
+        color: gray;
+         
+    } 
+    .button {
+        background-color:#D5AA93;
+        border: none;
+        color: #5C4230;
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+       width: 9em;
+       height: 2.2em;
+        text-align: center;
+        
+  
+        
+        font-family: 'Poppins', sans-serif;
+      font-weight: 400;
+      font-size: 20px;
+        margin-top: 17em;
+        margin-left: 16%;
+      }
+      .iconE {
+      
+    
+        margin-top: -.2em;
+        margin-left: .4em;
+        height: 1.5em;
+        width: 1.5em;   
+      }
+    
